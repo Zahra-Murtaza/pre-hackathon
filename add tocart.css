@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #cart, #product-list {
+    width: 300px;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  #cart-items {
+    padding: 0;
+  }
+  
+  #cart-items li {
+    list-style-type: none;
+    margin-bottom: 5px;
+  }
+  
+  .add-to-cart-btn {
+    display: block;
+    margin-top: 10px;
+  }
+  
